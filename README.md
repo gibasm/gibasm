@@ -1,9 +1,9 @@
 ### Hi, I'm Michał 👋
 
-I'm a student of Computer Engineering at Wrocław University of Science and Technology,
+Software engineer & student of Computer Engineering at Wrocław University of Science and Technology,
 
 
-also a proud member of SKN MOS (Microsystems Oriented Society, student association at WUST).
+a proud member of MOS (Microsystems Oriented Society) student research group.
 
 --- 
 
