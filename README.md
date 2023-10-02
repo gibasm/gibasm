@@ -3,7 +3,9 @@
 Software engineer & student of Computer Engineering at Wrocław University of Science and Technology,
 
 
-a proud member of MOS (Microsystems Oriented Society) student research group.
+a proud member of 
+[MOS](https://mos.pwr.edu.pl/)
+(Microsystems Oriented Society) student research group.
 
 --- 
 
