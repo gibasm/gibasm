@@ -1,11 +1,9 @@
 ### Hi, I'm Michał 👋
 
-Software engineer & student of Computer Engineering at Wrocław University of Science and Technology,
+Software engineer @ [Intel](https://intel.com) & Computer Engineering student at Wrocław University of Science and Technology,
 
 
-a proud member of 
-[MOS](https://mos.pwr.edu.pl/)
-(Microsystems Oriented Society) student research group.
+member of [MOS](https://mos.pwr.edu.pl/) (Microsystems Oriented Society) student research group.
 
 --- 
 
@@ -13,7 +11,7 @@ My interests include:
 
 * 👨🏽‍💻 low-level/embedded software development
 
-* ⚙️ digital electronics, hardware/software interfaces, VLSI, FPGAs
+* ⚙️ digital electronics, hardware/software interfaces, FPGAs
 
 ---
 
