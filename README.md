@@ -1,9 +1,12 @@
 ### Hi, I'm Michał 👋
 
-Software engineer @ [Intel](https://intel.com) & Computer Engineering student at Wrocław University of Science and Technology,
+* Software engineer @ [Intel](https://intel.com)
 
 
-member of [MOS](https://mos.pwr.edu.pl/) (Microsystems Oriented Society) student research group.
+* Computer Engineering student at Wrocław University of Science and Technology,
+
+
+* member of [MOS](https://mos.pwr.edu.pl/) (Microsystems Oriented Society) student research group.
 
 --- 
 
