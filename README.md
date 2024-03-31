@@ -3,7 +3,7 @@
 * Software engineer @ [Intel](https://intel.com)
 
 
-* Computer Engineering student at Wrocław University of Science and Technology,
+* Graduate of Computer Engineering at Wrocław University of Science and Technology
 
 
 * member of [MOS](https://mos.pwr.edu.pl/) (Microsystems Oriented Society) student research group.
@@ -12,9 +12,11 @@
 
 My interests include:
 
-* 👨🏽‍💻 low-level/embedded software development
+* 👨🏽‍💻 low-level/embedded software
 
 * ⚙️ digital electronics, hardware/software interfaces, FPGAs
+
+* 🧪 science and engineering in general ;)
 
 ---
 
