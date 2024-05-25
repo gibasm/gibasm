@@ -20,7 +20,7 @@ My interests include:
 
 ---
 
-You can contact me via e-mail: [m.gibas2407@gmail.com](mailto:m.gibas2407@gmail.com)
+You can contact me via [e-mail](mailto:gibasm@proton.me).
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
