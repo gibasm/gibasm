@@ -12,7 +12,7 @@
 
 My interests include:
 
-* 👨🏽‍💻 low-level/embedded software
+* 👨🏽‍💻 software
 
 * ⚙️ digital electronics, hardware/software interfaces, FPGAs
 
