@@ -12,11 +12,11 @@
 
 My interests include:
 
-* 👨🏽‍💻 software
+* 👨🏽‍💻 software engineering,
 
-* ⚙️ digital electronics, hardware/software interfaces, FPGAs
+* ⚙️ hardware/software interfaces & hardware reliability,
 
-* 🧪 science and engineering in general ;)
+* 🧪 science and engineering in general.
 
 ---
 
